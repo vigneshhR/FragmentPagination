@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoFragment</string>
+    <string name="url">https://api.github.com/repositories</string>
+</resources>
